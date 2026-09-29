@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color:#0300b6;
+    color: #0300b6;
 }
 
 p {
@@ -55,7 +55,7 @@ section {
     border-radius: 12px;
 }
 
-img{
+img {
     width: 100%;
     max-width: 600px;
     display: block;
@@ -70,7 +70,7 @@ figcaption {
     margin-top: 8px
 }
 
-card {
+.card {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
@@ -78,9 +78,10 @@ card {
     border-radius: 10px;
 }
 
-card h3 {
+.card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #222222;
     color: white;
@@ -98,7 +99,7 @@ button {
     cursor: pointer;
 }
 
-botton:hover{
+button:hover {
     background-color: #0365b6;
 }
 
